@@ -1,12 +1,6 @@
 # Hospital Floorplate Fitter
 ## STATS
-This is a: CS50P Capstone Project
 
-By: Swan Sodja
-
-From: Seattle, WA
-
-Demo URL: https://youtu.be/XUMUG5IIXk8
 ## THE BASICS: Problem Statement and Scope Definition
 As an estimator for a large general contractor, I must at times provide a complete estimate for a project given only minimal information. This process, known as conceptual estimating, is often used to decide whether to proceed with a project at all, to set budgets and secure financing for the work as a whole, and as a basis for design. In practice, conceptual estimating relies heavily on institutional knowledge, in many cases the particular knowledge of one individual within an organization, and is often expressed as the gut-feel or instinct of that individual. The normal challenge is to express what is essentially a guess as information which can be relied upon. I say a better problem to solve is how to actually create reliable information to use in this process. 
 
